@@ -1,0 +1,16 @@
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.exe
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.deps.json
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.runtimeconfig.json
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.runtimeconfig.dev.json
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.dll
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\bin\Debug\net5.0\StringCompression.pdb
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.csproj.AssemblyReference.cache
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.AssemblyInfoInputs.cache
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.AssemblyInfo.cs
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.csproj.CoreCompileInputs.cache
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.dll
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\refint\StringCompression.dll
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.pdb
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\StringCompression.genruntimeconfig.cache
+C:\Users\AL00831905\workspace\courses\repos\dou-university-development\net_training\code-challenges\StringCompression\StringCompression\obj\Debug\net5.0\ref\StringCompression.dll
